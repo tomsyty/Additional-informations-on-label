@@ -1,7 +1,7 @@
 ## Dodatkowe pola na wydruku etykiety UPS nadawanej przez WzA
-To rozszerzenie pozwala na wydruk pól "Dodatkowa informacja na etykiecie" i "Numer referencyjny" na etykiecie przewoźnika UPS przy nadawaniu przesyłek przez "Wysyłam z Allegro".
-Osobiście nie mam potrzeby korzystania z tego rozwiązania gdyż generuję etykiety pojedynczo w momencie szykowania paczki, jednak zdaję sobie sprawę że niektórym może się to przydać gdyż zgłaszali takie zapotrzebowanie na forum Allegro Gadane.				
-Jest to rozszerzenie do przeglądarki Chrome. Wszystkie rozszerzenia testuję tylko dla systemu Windows 10 i najnowszej wersji przeglądarki.
+To rozszerzenie pozwala na wydruk pól "Dodatkowa informacja na etykiecie" i "Numer referencyjny" na etykiecie przewoźnika UPS przy nadawaniu przesyłek przez "Wysyłam z Allegro".<br/>
+Osobiście nie mam potrzeby korzystania z tego rozwiązania gdyż generuję etykiety pojedynczo w momencie szykowania paczki, jednak zdaję sobie sprawę że niektórym może się to przydać gdyż zgłaszali takie zapotrzebowanie na forum Allegro Gadane.<br/>			
+Jest to rozszerzenie do przeglądarki Chrome. Wszystkie rozszerzenia testuję tylko dla systemu Windows 10 i najnowszej wersji przeglądarki.<br/>
 **Instrukcja instalacji:**
 1. Kliknij ikonę menu rozszerzeń w prawym górnym rogu okna przeglądarki (ikona puzzla)
 ![chrome_extensions_menu_icon](https://github.com/tomsyty/Additional-informations-on-UPS-label/assets/41838854/250c501e-208e-4d73-a0e6-af40b11833b3)
