@@ -31,6 +31,8 @@ Gdy wejdziesz teraz do folderu "downloads" znajdującego się w folderze rozszer
 To już wszystko. Etykiety które będą przetwarzane przez to rozszerzenie będą sygnalizowane przez zielony przycisk "Pobierz etykiety"<br/>
 ![download_label_button_highlighted](https://github.com/tomsyty/Additional-informations-on-label/assets/41838854/a5b020d2-8b20-40f1-8439-e7ca965f698c)
 
+Etykiety są przetwarzane tylko w momencie pobierania na stronie od razu po zamówieniu przesyłki. Ponownie pobierane etykiety np. ze strony Sprzedaż - Obsługa zamówień - Zamówione przesyłki nie są przetwarzane.
+
 Przy pierwszym pobieraniu przeglądarka zapyta jeszcze o pozwolenie na pobieranie wielu plików (jest to spowodowane tym że rozszerzenie od razu po pobraniu etykiety przerabia ją, usuwa pobraną etykietę i zapisuje gotowy plik pod tą samą nazwą). Należy kliknąć "Zezwalaj"<br/>
 ![multiple_downloads_prompt](https://github.com/tomsyty/Additional-informations-on-label/assets/41838854/9bdde32c-b37e-42d4-8701-f2e139f9baaa)<br/>
 
