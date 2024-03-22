@@ -5,6 +5,8 @@ Osobiście nie mam potrzeby korzystania z tego rozwiązania gdyż generuję etyk
 
 Jest to rozszerzenie do przeglądarki Chrome. Wszystkie rozszerzenia testuję tylko dla systemu Windows 10 i najnowszej wersji przeglądarki.
 
+![chrome_extensions_menu_icon](assets/additional_informations_on_label.gif)
+
 **Instrukcja instalacji:**
 1. Pobierz rozszerzenie "additional_informations_on_label.zip" z listy plików widocznej powyżej i rozpakuj je tam gdzie zamierzasz je trzymać.
 2. Kliknij ikonę menu rozszerzeń w prawym górnym rogu okna przeglądarki (ikona puzzla)
