@@ -1,0 +1,2 @@
+[2024-03-22] v1.0.1:
+- dodano opcję powiększania czcionki w polu "Uwagi nadawcy" dla przesyłek obsługiwanych przez One Kurier. Te przesyłki w przeciwieństwie do obsługiwanych przez UPS posiadają pole w którym dodatkowe informacje są już zawarte, jednak czcionka w nim jest bardzo mała. Opcja jest domyślnie wyłączona, należy ją włączyć w oknie "Opcje" w menu kontekstowym dostępnym po kliknięciu na ikonę rozszerzenia  
